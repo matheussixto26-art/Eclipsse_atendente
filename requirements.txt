@@ -1,0 +1,5 @@
+discord.py
+apscheduler
+SQLAlchemy
+pytz
+google-generativeai
